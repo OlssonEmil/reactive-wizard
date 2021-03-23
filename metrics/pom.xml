@@ -4,6 +4,7 @@
     <groupId>se.fortnox.reactivewizard</groupId>
     <artifactId>reactivewizard-metrics</artifactId>
 
+    
     <parent>
         <groupId>se.fortnox.reactivewizard</groupId>
         <artifactId>reactivewizard-parent</artifactId>
